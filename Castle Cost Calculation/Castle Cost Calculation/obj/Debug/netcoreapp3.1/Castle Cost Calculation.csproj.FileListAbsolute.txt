@@ -1,0 +1,13 @@
+C:\Users\Beru\source\repos\Castle Cost Calculation\Castle Cost Calculation\bin\Debug\netcoreapp3.1\Castle Cost Calculation.exe
+C:\Users\Beru\source\repos\Castle Cost Calculation\Castle Cost Calculation\bin\Debug\netcoreapp3.1\Castle Cost Calculation.deps.json
+C:\Users\Beru\source\repos\Castle Cost Calculation\Castle Cost Calculation\bin\Debug\netcoreapp3.1\Castle Cost Calculation.runtimeconfig.json
+C:\Users\Beru\source\repos\Castle Cost Calculation\Castle Cost Calculation\bin\Debug\netcoreapp3.1\Castle Cost Calculation.runtimeconfig.dev.json
+C:\Users\Beru\source\repos\Castle Cost Calculation\Castle Cost Calculation\bin\Debug\netcoreapp3.1\Castle Cost Calculation.dll
+C:\Users\Beru\source\repos\Castle Cost Calculation\Castle Cost Calculation\bin\Debug\netcoreapp3.1\Castle Cost Calculation.pdb
+C:\Users\Beru\source\repos\Castle Cost Calculation\Castle Cost Calculation\obj\Debug\netcoreapp3.1\Castle Cost Calculation.csprojAssemblyReference.cache
+C:\Users\Beru\source\repos\Castle Cost Calculation\Castle Cost Calculation\obj\Debug\netcoreapp3.1\Castle Cost Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Beru\source\repos\Castle Cost Calculation\Castle Cost Calculation\obj\Debug\netcoreapp3.1\Castle Cost Calculation.AssemblyInfoInputs.cache
+C:\Users\Beru\source\repos\Castle Cost Calculation\Castle Cost Calculation\obj\Debug\netcoreapp3.1\Castle Cost Calculation.AssemblyInfo.cs
+C:\Users\Beru\source\repos\Castle Cost Calculation\Castle Cost Calculation\obj\Debug\netcoreapp3.1\Castle Cost Calculation.dll
+C:\Users\Beru\source\repos\Castle Cost Calculation\Castle Cost Calculation\obj\Debug\netcoreapp3.1\Castle Cost Calculation.pdb
+C:\Users\Beru\source\repos\Castle Cost Calculation\Castle Cost Calculation\obj\Debug\netcoreapp3.1\Castle Cost Calculation.genruntimeconfig.cache
